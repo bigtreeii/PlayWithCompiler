@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PlayDB",
+            "request": "launch",
+            "mainClass": "playdb.PlayDB",
+            "projectName": "playdb"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DistributedDataLayer",
+            "request": "launch",
+            "mainClass": "playdb.DistributedDataLayer",
+            "projectName": "playdb"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DistributedDataLayer",
+            "request": "launch",
+            "mainClass": "sql.DistributedDataLayer",
+            "projectName": "playdb"
+        }
+    ]
+}
